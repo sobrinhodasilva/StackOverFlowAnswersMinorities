@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 #Data Sources 
-developer_survey_2020/*
 *.zip
